@@ -3,7 +3,7 @@
 - 🌱 I’m currently a student
 - Pursuing M.TECH from M.N.I.T Jaipur(2023-2025)
 - I'm Btech passout(2019-2023 batch)
-- skills:- c++,java,html,css,java-script,python
+- skills:- c++,java,html,css,java-script,python,opencv
 - 📫 How to reach me ...email:- priyakairo1208@gmail.com
 
 <!---
